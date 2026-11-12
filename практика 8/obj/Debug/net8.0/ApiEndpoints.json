@@ -1,0 +1,113 @@
+[
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.Auth",
+    "Method": "Login",
+    "RelativePath": "api/v1/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.Auth\u002BAuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.Auth",
+    "Method": "Register",
+    "RelativePath": "api/v1/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.Auth\u002BAuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController",
+    "Method": "Create",
+    "RelativePath": "api/v1/tasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController\u002BTaskRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/tasks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController",
+    "Method": "Update",
+    "RelativePath": "api/v1/tasks/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController\u002BTaskRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_8.Controllers.TaskController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/tasks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

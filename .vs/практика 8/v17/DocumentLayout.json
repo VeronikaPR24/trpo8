@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|d:\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098B5BEA-F0B1-45AB-B595-1B1952339092}|\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8.csproj|solutionrelative:\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-12T09:48:26.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.Development.json",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.Development.json",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-12T09:47:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.json",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.json",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.json",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-12T09:46:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\User.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\User.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\User.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T09:45:13.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\Task.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\Task.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T09:41:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T09:02:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\Auth.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\Auth.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Controllers\\Auth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T10:23:10.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Program.cs",
+              "RelativeDocumentMoniker": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Program.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Program.cs",
+              "RelativeToolTip": "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 8\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T10:19:22.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
